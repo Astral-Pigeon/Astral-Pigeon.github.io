@@ -138,6 +138,7 @@ button, input[type="submit"], input[type="reset"] {
 
 .vertical-menu{
 	width:200px;
+	margin:auto;
 }
 
 .vertical-menu button{
@@ -148,7 +149,6 @@ button, input[type="submit"], input[type="reset"] {
 	padding:50%;	
 	position:absolute;
 	text-align:center;
-	margin:auto;
 	border-style:solid;
 	border:10px;
 	border-color:white;
