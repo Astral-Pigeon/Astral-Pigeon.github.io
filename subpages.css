@@ -31,6 +31,8 @@ p{
 	margin-left:10%; 
 	margin-right:10%; 
 	font-family:Friz;
+	font-size:200%;
+	color:white;
 }
 
 div{
@@ -57,8 +59,7 @@ button, input[type="submit"], input[type="reset"] {
 }
 
 .vertical-menu{
-	top :25%;
-	bottom:25%;
+	top :50%;
 	position:absolute;
 	width:70%;
 	vertical-align:middle;
@@ -71,8 +72,6 @@ button, input[type="submit"], input[type="reset"] {
 	box-sizing:inherit;
 	display:block;
 	font-size:300%;
-	border-style:solid;
-	border-color:white;
 	margin:auto;
 }
 

@@ -117,6 +117,7 @@ h1{
 }
 
 .title{
+	top:10%;
 	font-family:SFOuterLimitsUpright;
 	color:white;
 	text-decoration: none;
