@@ -57,7 +57,8 @@ button, input[type="submit"], input[type="reset"] {
 }
 
 .vertical-menu{
-	top :16%;
+	top :25%;
+	bottom:25%;
 	position:absolute;
 	width:70%;
 	vertical-align:middle;
