@@ -144,10 +144,12 @@ button, input[type="submit"], input[type="reset"] {
 	font-family:galaxymonkey;
 	color:white;
 	display:block;
+	font-size:300%;
 	padding:50%;	
 	position:absolute;
 	text-align:center;
 	margin:auto;
+	border-style:solid;
 	border:10px;
 	border-color:white;
 }
