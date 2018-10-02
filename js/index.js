@@ -5,7 +5,7 @@ $(document).ready(function() {
 "use strict";
 
 $("#CurrentContent").load("buttons.html");
-
+console.log('Everysecond?');
 var WhoButton = document.getElementById("WhoButton");
 if(WhoButton)
 {
